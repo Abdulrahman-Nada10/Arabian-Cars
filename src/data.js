@@ -108,7 +108,7 @@ export const bestsellers = [
   {
     id: 7,
     img: products7,
-    title: "Wool Coat",
+    title: "BMW",
     price: 99.99,
   },
   {
@@ -159,7 +159,7 @@ export const allProducts = [
   {
     id: 7,
     img: products7,
-    title: "Wool Coat",
+    title: "BMW",
     price: 99.99,
   },
   {
@@ -229,11 +229,11 @@ export const footerLinks = [
   },
   {
     id: 3,
-    title: "Men Fashion",
+    title: "BMW",
   },
   {
     id: 4,
-    title: "Women Fashion",
+    title: "mercedes",
   },
   {
     id: 5,
@@ -249,6 +249,6 @@ export const footerLinks = [
   },
   {
     id: 8,
-    title: "Wishlist",
+    title: "Contect us",
   },
 ];

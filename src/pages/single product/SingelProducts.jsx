@@ -12,7 +12,7 @@ const SingleProduct  = () => {
     console.log("Product ID:", id);
     const product = allProducts.find((product) => product.id === parseInt(id));
     const colors = ['red' , 'blue' , 'green' , 'yellow' , 'black'];
-    const sizes = ['XS' , 'S' , 'M' , 'L' , 'XL'];
+    const sizes = ['sport' , 'Sedan' , 'hetshack'];
     const dispatch = useDispatch();
     const handleAddToCart = (product) => {
         dispatch(addToCart (product));
